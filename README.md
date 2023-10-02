@@ -6,4 +6,4 @@ Figma da aplicação: https://www.figma.com/file/s7eyXgasRYTRHOKy6fJb0O
 
 
 
-![Desafio - Avançado e acessível.png](..%2F..%2F..%2F..%2F..%2FDownloads%2FDesafio%20-%20Avan%C3%A7ado%20e%20acess%C3%ADvel.png)
+![Desafio - Avançado e acessível](https://github.com/alemorbene/html-css-desafio-recriando-layout/assets/56047471/b3d47b9a-2347-4aad-947b-11598a718ad9)
